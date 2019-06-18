@@ -1,4 +1,4 @@
-# Reseach
+# Research
 ---
 Demos, Research and Practice for Thesis 
 ___
