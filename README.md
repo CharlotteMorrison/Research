@@ -7,8 +7,10 @@ ___
 ### 1. Deep Q Learning Networks Demo
 Notebook with OpenAIGym cartpole example.  Simple DQN implementation with notes and videos.
 
-### 2. Open AI Gym
+### 2. Simple Neural Network
+Notebook using Keras and MNIST dataset.  Trained model and outputs summary and visualization. 
 
+### 2. Open AI Gym
 Simulation toolkit for comparing reinforcement learning algorithms.  
 [GYM Github](https://github.com/openai/gym)
 ___ 
